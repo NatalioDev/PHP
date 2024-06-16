@@ -96,10 +96,6 @@
 
   echo "Nata is password is: " . $user['nata'] . "<br>";
 
-
-
-
-
   ?>
 </body>
 
